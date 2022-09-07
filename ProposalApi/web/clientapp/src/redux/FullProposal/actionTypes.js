@@ -1,0 +1,1 @@
+export const SET_FULL_PROPOSAL = "SET_FULL_PROPOSAL";
