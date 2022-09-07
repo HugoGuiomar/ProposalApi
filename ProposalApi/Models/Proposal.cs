@@ -9,7 +9,7 @@ namespace ProposalApi.Models
 {
     public class Proposal
     {
-        private Decimal ssTax = 1.11m;
+        private Decimal ssTax = 0.11m;
         public int Id { get; set; }
 
         [Required]
